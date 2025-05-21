@@ -31,7 +31,7 @@ Throughout my career, I have contributed to software systems in diverse sectors 
    - `SIGA` – Academic Management
    - `ContaGest` – Accounting and Finance
    - `SiGespi` – Industrial Production Management
-3. Delivered mobile apps (Android/iOS) using **React Native** (2020–2022).
+3. Delivered mobile apps (Android/iOS) using **React Native** (2020–2025).
 
 ---
 
