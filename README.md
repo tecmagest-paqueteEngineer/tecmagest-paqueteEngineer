@@ -3,7 +3,7 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A2540?style=for-the-badge&logo=lock&logoColor=white)
 
 **Software Engineer** | **Cybersecurity Analyst** | **Tech Entrepreneur**  
 🌍 Angola | 🇧🇷 Brazil | 🇵🇹 Portugal | 🇸🇹 São Tomé e Príncipe
