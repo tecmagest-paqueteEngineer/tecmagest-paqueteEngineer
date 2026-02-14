@@ -10,7 +10,7 @@
 
 ---
 
-I am a Software Engineer and Cybersecurity Analyst with over **20 years in technology**, including **11+ years in software development, consulting, and technical leadership**.
+I am a Software Engineer focused on DevOps, and Cybersecurity, with over **20 years in technology**, including **11+ years in software development, consulting, and technical leadership**.
 
 Previously at **Stefanini Group**, I worked as a Full-Stack Developer delivering applications in **.NET (C#)**, **Angular**, and **Azure DevOps** for platforms in investment, education, bidding, and content management.
 
@@ -28,7 +28,7 @@ Throughout my career, I have contributed to software systems in diverse sectors 
 ### 🏆 Key Achievements
 1. **Founder of TECMAGEST (2008)** – custom enterprise software solutions.
 2. Designed Angola’s first integrated systems:
-   - `SIGA` – Academic Management
+   - `SIGA|SUGEST` – Academic Management
    - `ContaGest` – Accounting and Finance
    - `SiGespi` – Industrial Production Management
 3. Delivered mobile apps (Android/iOS) using **React Native** (2020–2025).
@@ -40,9 +40,9 @@ Throughout my career, I have contributed to software systems in diverse sectors 
 - **Languages:** C#, Go, JavaScript, TypeScript, Python  
 - **Frameworks:** ASP.NET Core, Next.js, React Native  
 - **Architecture:** Clean Architecture, Vertical Slice, SOLID  
-- **Tools:** MediatR, EF Core, Azure DevOps, Docker, CI/CD pipelines  
+- **Tools:** MediatR, EF Core, Azure DevOps, Docker, Production Containers  
 - **Cloud:** Azure, AWS (certification in progress)  
-- **Other Skills:** GitHub Actions, RESTful APIs, Unit Testing
+- **Other Skills:** GitHub Actions, DevOps, Unit Testing
 
 ---
 
@@ -51,7 +51,7 @@ Throughout my career, I have contributed to software systems in diverse sectors 
 - 🟢 Backend microservices in **Go**
 - 🟣 Modern frontend with **Next.js**
 - 🐍 **Python scripting** for automation and tooling
-- 🚀 Preparing for **AWS certification** (Cloud Practitioner / Developer)
+- 🚀 Preparing for **Devops engineer"" (techworld-with-nana, AWS and AZURE)
 
 ---
 
